@@ -1,12 +1,9 @@
-## Hi there 👋
+# Team-Albbano 🤬
+> Since 2023.04.25 -
 
-<!--
+|[홍성욱(L)](https://github.com/ukssss)|[김하연](https://github.com/hayeonn2)|[오승택](https://github.com/5wintaek)|
+|---|---|---|
+|![홍성욱의 프로필 사진](https://avatars.githubusercontent.com/u/86929961?v=4)|![김하연의 프로필 사진](https://avatars.githubusercontent.com/u/111109573?v=4)|![오승택의 프로필 사진](https://avatars.githubusercontent.com/u/109938280?v=4)|
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<i>📚 스터디 같아 보이지만 알고보니 <b>개그동아리</b> 🤥</i>
