@@ -1,4 +1,4 @@
-# Team-Albbano 🤬
+# Team-Jeongjin 🤬
 > Since 2023.04.25 -
 
 |[홍성욱](https://github.com/ukssss)|[김하연](https://github.com/hayeonn2)|[오승택](https://github.com/5wintaek)|[황주희](https://github.com/Juhee-Hwang)|[이현우](https://github.com/hyunwlee-dev)|
